@@ -43,17 +43,70 @@ Email Me 👉 ✉️ **rishikeshsinghgautam155@gmail.com** For Contact/Project o
 ![Selenium WebDriver](https://img.shields.io/badge/Selenium%20WebDriver-Automation%20Tool-43B02A?logo=selenium&logoColor=white)
 ![TestNG](https://img.shields.io/badge/TestNG-Framework-red)
 
-### 💻 Programming
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+# 💻 Programming Skills
+
+### ☕ Java Development
+![Java](https://img.shields.io/badge/Java-Programming-orange?logo=java&logoColor=white)
+![Core Java](https://img.shields.io/badge/Core%20Java-Strong-red)
+![JVM](https://img.shields.io/badge/JVM-Understanding-blue)
 
 ---
 
-### 🗄 Database
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+### 🧩 Java Fundamentals
+![Data Types](https://img.shields.io/badge/Data%20Types-Knowledge-green)
+![Variables](https://img.shields.io/badge/Variables-Understanding-yellow)
+![Loops](https://img.shields.io/badge/Loops-Implemented-blueviolet)
+![Switch Statements](https://img.shields.io/badge/Switch%20Statements-Used-purple)
 
 ---
 
-### 🧰 Tools & IDEs
+### 🏗️ OOP Concepts
+![OOP](https://img.shields.io/badge/OOP%20Concepts-Strong-success)
+
+---
+
+# 🗄️ SQL & Database Skills
+
+### 📊 Query Writing
+![SQL](https://img.shields.io/badge/SQL-Query%20Writing-blue?logo=mysql&logoColor=white)
+![SELECT](https://img.shields.io/badge/SELECT-Used-success)
+![WHERE](https://img.shields.io/badge/WHERE-Filtering-orange)
+![ORDER BY](https://img.shields.io/badge/ORDER%20BY-Sorting-yellow)
+
+---
+
+### 🔄 CRUD Operations
+![INSERT](https://img.shields.io/badge/INSERT-Data%20Creation-green)
+![UPDATE](https://img.shields.io/badge/UPDATE-Data%20Modification-blue)
+![DELETE](https://img.shields.io/badge/DELETE-Data%20Removal-red)
+
+---
+
+### 🔗 Joins
+![Inner Join](https://img.shields.io/badge/INNER%20JOIN-Used-purple)
+![Left Join](https://img.shields.io/badge/LEFT%20JOIN-Used-blueviolet)
+![Right Join](https://img.shields.io/badge/RIGHT%20JOIN-Used-darkblue)
+
+---
+
+### 🛡️ Database Constraints
+![Primary Key](https://img.shields.io/badge/Primary%20Key-Implemented-success)
+![Foreign Key](https://img.shields.io/badge/Foreign%20Key-Implemented-orange)
+![NOT NULL](https://img.shields.io/badge/NOT%20NULL-Used-yellow)
+![UNIQUE](https://img.shields.io/badge/UNIQUE-Used-blue)
+
+---
+
+### 📈 Aggregate Functions
+![COUNT](https://img.shields.io/badge/COUNT-Used-success)
+![SUM](https://img.shields.io/badge/SUM-Used-green)
+![AVG](https://img.shields.io/badge/AVG-Used-orange)
+![MAX](https://img.shields.io/badge/MAX-Used-blue)
+![MIN](https://img.shields.io/badge/MIN-Used-purple)
+
+---
+
+## 🧰 Tools & IDEs
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse-ide&logoColor=white)
