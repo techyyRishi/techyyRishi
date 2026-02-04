@@ -1,7 +1,7 @@
 # 💫 Hi 👋, I'm Rishikesh
 **Software Test Engineer || Automation || Selenium || QA Manual || JAVA**
 
-Email Me 👉 ✉️ **rishikeshsinghgautam155** For Contact/Project or Anything Else. 😊😊
+Email Me 👉 ✉️ **rishikeshsinghgautam155@gmail.com** For Contact/Project or Anything Else. 😊😊
 
 - 🔭 **I’m currently working on:** Sauce Demo Website (Manual Testing) | RockPaperScissor Android Game (Core Java + AI Integration)
 - 🌱 **I’m currently learning:** Selenium Automation with Java | TestNg frame work | MYSQL Database | Automation Frame Work Design
