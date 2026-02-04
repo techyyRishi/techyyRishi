@@ -12,9 +12,38 @@ Email Me 👉 ✉️ **rishikeshsinghgautam155@gmail.com** For Contact/Project o
 - 😄 **Pronouns:** Rishikesh
 - ⚡ **Fun fact:** I love technology and enjoy learning new testing tools every day.
 
-- <div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
-</div>
+<!-- 🎮 Gaming Neon Header -->
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=QA%20Testing%20Engineer&fontSize=40&fontColor=00FFEF&animation=fadeIn&fontAlignY=35"/>
+</p>
+
+---
+
+<!-- 🧪 Neon Typing Animation -->
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&pause=800&color=00FFE0&center=true&vCenter=true&width=900&lines=Manual+Testing+Expert;Automation+Testing+Enthusiast;Selenium+WebDriver+Specialist;TestNG+Framework+User;Web+%26+E-Commerce+Application+Tester;QA+Engineer+In+Progress" />
+</p>
+
+---
+
+<!-- 🌊 Animated Wave Divider -->
+<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" />
+
+---
+
+<!-- 🐍 3D Contribution Snake Animation -->
+<p align="center">
+<img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
+---
+
+---
+
+<!-- ⚡ Glowing Footer -->
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer"/>
+</p>
 
   
 ## 🌐 Socials:
