@@ -19,14 +19,29 @@ Email Me 👉 ✉️ **rishikeshsinghgautam155@gmail.com** For Contact/Project o
   
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/debugyour_career) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rishikesh-kumar-237632391) 
-## 🛠 Tech Stack
+## 🛠️ Tech Stack
 
-### 🧪 Testing
-![Manual Testing](https://img.shields.io/badge/Manual_Testing-6DB33F?style=for-the-badge)
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
-![TestNG](https://img.shields.io/badge/TestNG-EF2D5E?style=for-the-badge)
+### 🧪 Testing Skills
+![Manual Testing](https://img.shields.io/badge/Manual%20Testing-Expert-blue)
+![Automation Testing](https://img.shields.io/badge/Automation%20Testing-Learning-green)
+![Test Case Design](https://img.shields.io/badge/Test%20Case%20Design-Important-orange)
+![Test Case Execution](https://img.shields.io/badge/Test%20Case%20Execution-Strong-yellow)
+![Test Scenarios](https://img.shields.io/badge/Test%20Scenarios-Created-purple)
+![Test Case Template](https://img.shields.io/badge/Test%20Case%20Template-Prepared-red)
+![Creating Test Cases](https://img.shields.io/badge/Creating%20Test%20Cases-Skilled-blueviolet)
 
 ---
+
+### 🌐 Application Testing
+![Web Applications](https://img.shields.io/badge/Web%20Applications-Tested-success)
+![E-Commerce Testing](https://img.shields.io/badge/E--Commerce%20Web%20Applications-Tested-brightgreen)
+
+---
+
+### 🤖 Automation Tools & Frameworks
+![Selenium](https://img.shields.io/badge/Selenium-Automation-43B02A?logo=selenium&logoColor=white)
+![Selenium WebDriver](https://img.shields.io/badge/Selenium%20WebDriver-Automation%20Tool-43B02A?logo=selenium&logoColor=white)
+![TestNG](https://img.shields.io/badge/TestNG-Framework-red)
 
 ### 💻 Programming
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
